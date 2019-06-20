@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context="com.example.donatedemo.MainActivity">
+<item
+    android:id="@+id/Report"
+    android:orderInCategory="100"
+    android:title="Report"
+    app:showAsAction="never" />
+</menu>
